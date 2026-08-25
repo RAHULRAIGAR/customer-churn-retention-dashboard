@@ -163,13 +163,24 @@ The goal of this project is to demonstrate how customer data can be transformed 
 Data → Insights → Business Impact → Action
 ---
 ```
-👨‍💻 Author
-Rahul Raigar
-Data Analytics | Power BI | SQL | Excel
-### 💻 GitHub
-[View Project Repository](https://github.com/RAHULRAIGAR/customer-churn-retention-dashboard)
-
-### 💼 LinkedIn
-[Connect with me on LinkedIn](https://www.linkedin.com/in/rahul-raigar-data3293/)
 ---
-⭐ If you found this project useful, consider giving the repository a star!
+
+## 👨‍💻 Author
+
+**Rahul Raigar**
+
+Data Analytics | Power BI | SQL | Excel
+
+### 🔗 Connect With Me
+
+- 💻 **GitHub:** [View My GitHub](https://github.com/RAHULRAIGAR)
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rahul-raigar-data3293/)
+
+### 📊 Project Resources
+
+- 📁 **Raw Customer Churn Data:** [View / Download Raw Data](./Customer_Churn_Retention_Raw_Data.xlsx)
+- 📊 **Power BI Dashboard:** [Download Power BI Dashboard](./Customer_Churn_Retention_Intelligence.ppix)
+
+---
+
+⭐ **If you found this project useful, consider giving the repository a star!**
