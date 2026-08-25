@@ -179,7 +179,11 @@ Data Analytics | Power BI | SQL | Excel
 ### 📊 Project Resources
 
 - 📁 **Raw Customer Churn Data:** [View / Download Raw Data](./Customer_Churn_Retention_Raw_Data.xlsx)
-- 📊 **Power BI Dashboard:** [Download Power BI Dashboard](./Customer_Churn_Retention_Intelligence.ppix)
+- 📊## 📥 Power BI Dashboard
+- [⬇️ Download Power BI Dashboard (.pbix)](./Customer_Churn_Retention_Intelligence_Dashboard%20%281%29.pbix)
+
+> GitHub cannot preview `.pbix` files directly.
+> Download the file and open it using Power BI Desktop.
 
 ---
 
