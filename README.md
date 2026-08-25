@@ -104,13 +104,13 @@ Based on the analysis, businesses can:
 ## 🔗 Project Links
 
 ### 💻 GitHub
-[View My GitHub Profile](https://github.com/RAHULRAIGAR)
+[View Project Repository](https://github.com/RAHULRAIGAR/customer-churn-retention-dashboard)
 
 ### 💼 LinkedIn
 [Connect with me on LinkedIn](https://www.linkedin.com/in/rahul-raigar-data3293/)
 
 ### 📥 Raw Data
-[Download Raw Dataset](YOUR_RAW_DATA_LINK)
+[Download Raw Customer Churn Dataset](https://raw.githubusercontent.com/RAHULRAIGAR/customer-churn-retention-dashboard/main/Customer_Churn_Retention_Raw_Data.xlsx)
 
 ---
 
@@ -122,17 +122,16 @@ Based on the analysis, businesses can:
 
 ## 📊 Business Value
 
-This dashboard goes beyond simply displaying numbers.
+This dashboard is designed to turn customer data into actionable business insights.
 
-It helps decision-makers:
+It helps businesses:
 
-✅ Identify high-risk customer groups  
-✅ Understand major churn drivers  
-✅ Prioritize retention strategies  
-✅ Estimate potential revenue loss  
-✅ Monitor churn trends  
-✅ Improve customer retention  
-✅ Protect recurring revenue  
+- 🎯 Identify high-risk customer segments
+- 📉 Understand major churn drivers
+- 💰 Estimate revenue at risk
+- 🔄 Improve customer retention
+- 📊 Monitor monthly churn trends
+- 🚀 Prioritize targeted retention strategies
 
 ---
 
@@ -166,12 +165,11 @@ Data → Insights → Business Impact → Action
 ```
 👨‍💻 Author
 Rahul Raigar
-
 Data Analytics | Power BI | SQL | Excel
+### 💻 GitHub
+[View Project Repository](https://github.com/RAHULRAIGAR/customer-churn-retention-dashboard)
 
-🔗 GitHub:
-https://github.com/RAHULRAIGAR
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/rahul-raigar-data3293/
+### 💼 LinkedIn
+[Connect with me on LinkedIn](https://www.linkedin.com/in/rahul-raigar-data3293/)
+---
 ⭐ If you found this project useful, consider giving the repository a star!
